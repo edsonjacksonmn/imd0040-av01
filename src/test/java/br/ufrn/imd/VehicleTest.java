@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 import java.lang.reflect.*;
 
-public class VehicleFactoryTest {
+public class VehicleTest {
 
     @Test
     public void testCarCreation() throws Exception {
